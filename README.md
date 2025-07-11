@@ -43,4 +43,8 @@ Press `q` to exit the program.
 
 ## Notes
 
-- Works best in good lighting conditions.
+- Works best in good lighting conditions!
+
+## Example
+
+![example](example.png)
