@@ -1,4 +1,8 @@
-# AsciiArtConverter
+<p align="center">
+    <img src="logo.png" alt="AsciiArtConverter Logo" width="200"/>
+</p>
+
+<h1 align="center">AsciiArtConverter</h1>
 
 ## Description
 
